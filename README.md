@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hey ^_^
+My name is Amogh Bharadwaj and I'm enthusiastic about React web development and cybersecurity. 
 
 <!--
 **Amogh-Bharadwaj/Amogh-Bharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
